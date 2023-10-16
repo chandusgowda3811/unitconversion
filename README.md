@@ -6,8 +6,8 @@ A Python application for performing unit conversions. This application allows yo
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Requirements](#requirements)
+- [Requirements](#Requirements)
+- [How To use](#h)
 
 ## Features
 
@@ -17,3 +17,7 @@ A Python application for performing unit conversions. This application allows yo
 - **Conversion Results:** Get the converted value with a single click.
 
 ## Requirements
+
+- **pip install tkinter
+
+
