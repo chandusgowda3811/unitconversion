@@ -25,4 +25,4 @@ A Python application for performing unit conversions. This application allows yo
 
 ## Getting Started
 
-run main.py in your python compiler
+Run main.py in your python compiler
