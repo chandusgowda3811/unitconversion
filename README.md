@@ -6,7 +6,6 @@ A Python application for performing unit conversions. This application allows yo
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Supported Conversions](#supported-conversions)
@@ -21,17 +20,9 @@ A Python application for performing unit conversions. This application allows yo
 - **User Input:** Enter a numeric value for conversion.
 - **Conversion Results:** Get the converted value with a single click.
 
-## Demo
 
-[![Unit Conversion Demo](demo.gif)](https://your-demo-link.com)
 
-(Click the image for a larger view)
 
 ## Getting Started
 
-To run this application on your local machine, follow these steps:
-
-1. Clone this repository to your computer.
-
-   ```bash
-   git clone <repository-url>
+run main.py in your python compiler
