@@ -18,6 +18,6 @@ A Python application for performing unit conversions. This application allows yo
 
 ## Requirements
 
-- **pip install tkinter
+- **pip install tkinter.
 
 
