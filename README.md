@@ -17,7 +17,7 @@ A Python application for performing unit conversions. This application allows yo
 
 ## Requirements
 
-- pip install tkinter
+-  tkinter
 
 ## How To Use
 - Run `unitconversion.py`
