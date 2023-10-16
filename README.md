@@ -7,7 +7,6 @@ A Python application for performing unit conversions. This application allows yo
 
 - [Features](#features)
 - [Requirements](#Requirements)
-- [How To use](#HowToUse)
 
 ## Features
 
