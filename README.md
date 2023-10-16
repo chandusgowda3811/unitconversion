@@ -7,7 +7,7 @@ A Python application for performing unit conversions. This application allows yo
 
 - [Features](#features)
 - [Requirements](#Requirements)
-- [How To use](#h)
+- [How To use](#How To Use)
 
 ## Features
 
@@ -19,6 +19,9 @@ A Python application for performing unit conversions. This application allows yo
 ## Requirements
 
 - pip install tkinter
+
+  ##How To Use
+  -Run unitconversion.py
   
 
 
