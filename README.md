@@ -7,11 +7,7 @@ A Python application for performing unit conversions. This application allows yo
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Supported Conversions](#supported-conversions)
-- [Dependencies](#dependencies)
-- [License](#license)
-- [Author](#author)
+- [Requirements](#requirements)
 
 ## Features
 
