@@ -20,8 +20,8 @@ A Python application for performing unit conversions. This application allows yo
 
 - pip install tkinter
 
-  ##How To Use
-  -Run unitconversion.py
+## How To Use
+  -Run `unitconversion.py`
   
 
 
