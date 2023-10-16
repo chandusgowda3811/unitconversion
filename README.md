@@ -16,9 +16,4 @@ A Python application for performing unit conversions. This application allows yo
 - **User Input:** Enter a numeric value for conversion.
 - **Conversion Results:** Get the converted value with a single click.
 
-
-
-
-## Getting Started
-
-Run main.py in your python compiler
+## Requirements
