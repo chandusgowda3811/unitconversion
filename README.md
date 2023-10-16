@@ -21,7 +21,5 @@ A Python application for performing unit conversions. This application allows yo
 
 ## How To Use
 - Run `unitconversion.py`
-## Result
-![image](https://github.com/chandusgowda3811/unitconversion/blob/main/unitconversion.png)
 
 
